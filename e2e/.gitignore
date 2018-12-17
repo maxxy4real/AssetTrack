@@ -1,0 +1,10 @@
+src/screenshot/
+TestLog.txt
+target
+../../../../../../.DS_Store
+../../../../../.DS_Store
+../../../../.DS_Store
+../../../.DS_Store
+../../.DS_Store
+../.DS_Store
+.DS_Store
